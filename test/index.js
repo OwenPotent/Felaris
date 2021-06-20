@@ -14,5 +14,5 @@ const evnt = new RegisterEvents('./test/events', client)
 cmd.init()
 evnt.init()
 
-client.init('ODQ3MzgzNDIxOTQwNzkzMzc0.YK9RTw.MN2d0fUO_5-WJ_kpenmGz79wT_U')
+client.init()
 
